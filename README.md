@@ -51,3 +51,6 @@ This project demonstrates the following OOP concepts:
 2. Return a Car:
    - Enter the car ID to return.
    - The system will mark the car as available and remove the rental record.
+  
+   # Display
+<img width="550" alt="1" src="Screenshot (16).png">   
