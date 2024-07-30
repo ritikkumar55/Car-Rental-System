@@ -53,4 +53,4 @@ This project demonstrates the following OOP concepts:
    - The system will mark the car as available and remove the rental record.
   
    # Display
-<img width="550" alt="1" src="Screenshot (16).png">   
+<img width="750" alt="1" src="Screenshot (16).png">   
